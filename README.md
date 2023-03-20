@@ -1,4 +1,4 @@
-# Genesis Sample Theme
+# Genesis Child Theme
 
-Github project link: https://github.com/AmjadKambo
+Github project link: https://github.com/amjadkamboh
 
